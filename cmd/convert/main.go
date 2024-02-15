@@ -9,8 +9,8 @@ import (
 	"github.com/worldline-go/initializer"
 	"github.com/worldline-go/logz"
 
-	"convert/internal/config"
-	"convert/internal/convert"
+	"github.com/worldline-go/convert/internal/config"
+	"github.com/worldline-go/convert/internal/convert"
 )
 
 var (

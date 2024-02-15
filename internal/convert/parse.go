@@ -3,9 +3,9 @@ package convert
 import (
 	"fmt"
 
-	"convert/internal/config"
-
 	"github.com/rs/zerolog/log"
+
+	"github.com/worldline-go/convert/internal/config"
 )
 
 type Parse struct {

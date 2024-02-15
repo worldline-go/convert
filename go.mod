@@ -1,4 +1,4 @@
-module convert
+module github.com/worldline-go/convert
 
 go 1.21
 

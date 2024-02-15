@@ -1,12 +1,13 @@
 package convert
 
 import (
-	"convert/internal/config"
-	"convert/internal/template"
 	"fmt"
 
 	"github.com/rs/zerolog/log"
 	"github.com/xuri/excelize/v2"
+
+	"github.com/worldline-go/convert/internal/config"
+	"github.com/worldline-go/convert/internal/template"
 )
 
 func Convert(cfg *config.Config) error {

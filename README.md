@@ -1,6 +1,6 @@
 # Convert
 
-Helper repo to covert excel to custom file.
+Helper repo to covert excel to custom text file.
 
 This tool uses [excelize](https://github.com/qax-os/excelize) and supports XLSM / XLSX / XLTM / XLTX files.
 
